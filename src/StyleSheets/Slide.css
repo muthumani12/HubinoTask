@@ -1,0 +1,49 @@
+
+
+
+.slide-wrapper {
+  height: 90px !important;
+}
+
+.mar-left {
+  margin-left: 240px !important;
+}
+
+.sld-hight {
+  height: 88px !important;
+}
+.font-left {
+  text-align: left !important;
+  margin-left: 20px !important;
+  font-size: 20px !important;
+  margin-top: 8px  !important;
+  color: #eaf7fa;
+}
+.font-slide {
+  text-align: left !important;
+  margin-left: 20px !important;
+  margin-top: -5px  !important;
+  font-size: 16px !important;
+  color: #eaf7fa;
+
+}
+
+.img-top {
+  top: 8px !important;
+}
+
+
+
+.firstslide-color{
+  background-image: linear-gradient(70deg,#1ddcda, #5880e8); /* Standard syntax (must be last) */
+}
+
+.Secondslide-color{
+  background-image: linear-gradient(70deg,#f65597, #fe7179); /* Standard syntax (must be last) */
+}
+.thirdslide-color{
+  background-image: linear-gradient(70deg,#3ed59f, #3ab8b3); /* Standard syntax (must be last) */
+}
+.fourthslide-color{
+  background-image: linear-gradient(70deg,#ffc546, #ff8c56); /* Standard syntax (must be last) */
+}

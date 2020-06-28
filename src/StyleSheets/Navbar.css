@@ -1,0 +1,28 @@
+
+
+.nav-colord{
+  color: #eaf7fa !important;
+}
+
+.un {
+    width: 90%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background:  #eaf7fa;
+    padding: 3px 14px 6px 10px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 8px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    }
+
+.backbar-color{
+  background-image: linear-gradient(90deg,#ed1a5e, #f6383b, #fd6701); /* Standard syntax (must be last) */
+}
